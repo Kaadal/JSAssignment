@@ -32,4 +32,10 @@ let bside = 4;
 let hypotenuse= Math.sqrt(aside**2 + bside**2);
 console.log(hypotenuse)
 
+let totalSeconds = 111;
+
+let minutes = Math.floor(totalSeconds / 60); // Get minutes
+let seconds = totalSeconds % 60; // Get remaining seconds
+
+console.log(minutes + " minute(s) and " + seconds + " second(s)");
 
