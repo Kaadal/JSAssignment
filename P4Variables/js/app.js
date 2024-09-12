@@ -8,5 +8,15 @@ console.log(numberOfBottles);
 console.log(line1);
 console.log(line2);
 console.log(--numberOfBottles);
+console.log(--numberOfBottles);
+console.log(--numberOfBottles);
+console.log(--numberOfBottles);
+console.log(--numberOfBottles);
+console.log(--numberOfBottles);
+console.log(--numberOfBottles);
+console.log(--numberOfBottles);
+console.log(--numberOfBottles);
+console.log(--numberOfBottles);
+
 //--numberOfBottles
 console.log(line1);
