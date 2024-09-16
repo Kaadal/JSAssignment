@@ -23,7 +23,7 @@ let number = 11
 let negation = -number;
 console.log(negation);
 
-let weight =70
+let weight = 70
 let height = 1.82
 console.log(weight/height**2)
 
