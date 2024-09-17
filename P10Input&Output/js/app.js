@@ -51,3 +51,18 @@ console.log(string('Ben', 'Ting'))
   console.log(convertNumberToLetters(1));
   console.log(convertNumberToLetters(2));
   //  console.log(convertNumberToLetters(3));
+
+function evaluateResult(firstNumber, secondNumber) {
+  if (firstNumber === secondNumber)      {
+    return 'Both numbers are equal!';
+}
+  else if(firstNumber > secondNumber) {
+    return 'First number is greater than';
+  }
+  else {
+    return 'Second number is greater than'
+  }
+    }
+    console.log(evaluateResult(5, 3));
+    console.log(evaluateResult(18, 21));
+    console.log(evaluateResult(15, 15));
