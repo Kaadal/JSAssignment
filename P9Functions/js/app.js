@@ -34,4 +34,11 @@ function stepForward() {
      stepForward()
    }
 
+function square (numbertoSquare){
+  return numbertoSquare * numbertoSquare;
+}
 
+let squaredNumber = square(15);
+console.log(squaredNumber)
+
+console.log(square(15))
