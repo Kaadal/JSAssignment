@@ -1,10 +1,10 @@
 // Change the text of 'text0' element
 const textField0 = document.getElementById('text0');
-textField0.innerHTML = 'Monke';
+textField0.innerHTML = 'Lets start!';
 
 // Change the header5 text and color
 const headerText5 = document.getElementById('header5');
-headerText5.innerHTML = 'This is my website';
+headerText5.innerHTML = 'Monke';
 headerText5.style.color = 'green';
 
 // Style the button
